@@ -1,14 +1,14 @@
 # codewars
 this repo will hold all of my solutions to kata in codewars and more.
 
-Gemini generated description of the current use of this repo/updated by me over time (as of 11/10/26):
+Gemini generated description of the current use of this repo/updated by me over time (as of 11/15/26):
 # 🥷 Codewars Challenges (Python)
 
 A dedicated repository tracking my journey through Codewars algorithmic challenges as I build my foundations for a Computer Science major and indie game development. 
 
 ## 📈 Current Progress
 * **Language:** Python 3
-* **Current Target:** 5 kyu & 6 kyu
+* **Current Target:** 4 kyu & 5 kyu
 * **Focus Areas:** Syntax lookup, complex and niche syntax, writing "elegant" and concise code
 
 ## 📂 Repository Structure
@@ -16,6 +16,7 @@ A dedicated repository tracking my journey through Codewars algorithmic challeng
 * `/7-kyu` - String parsing, algorithmic logic, and array manipulation.
 * `/6-kyu` - Advanced string manipulation, mathematics, and array manipulation.
 * `/5-kyu` - Complex string and array manipulation, niche syntax, creative approaches.
+* `/4-kyu` - Out of box and creative thinking, complex logic and intuitive thinking.
 
 
 ## 🧠 Core Takeaways So Far
